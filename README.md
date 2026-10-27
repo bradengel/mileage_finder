@@ -1,4 +1,4 @@
-# mileage calculator
+# mileage getter
 
 ## requirements
 
